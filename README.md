@@ -7,6 +7,7 @@ this is my not my theme i have just edited and added a few snippits of css prett
 ## information
 
 This Is the blue version
+If you wish to change the colours, there all in the theme.css
 
 ## install
 
