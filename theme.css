@@ -1,5 +1,6 @@
 /* imports */
 @import url("https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Fonts/DiscordFont.css");
+@import url('https://poilerwags.github.io/Customa-Discord/Chat/radialstatus.m.css');
 
 /* BLURPLE BLUE */
 
@@ -1301,6 +1302,7 @@ html.theme-dark .theme-light .footer-2gL1pp {
 .search-2oPWTC .searchBar-3dMhjb:hover {width:250px !important;}
 .search-2oPWTC.open-6_Y_aH .searchBar-3dMhjb {width: 250px !important;}
 
+
 .item-PXvHYJ[data-item-id=pc-updater] {
     height: 4.65rem;
     align-items: unset !important;
@@ -1493,19 +1495,7 @@ img[src="/assets/13c8662cff8e029799a35878b56e23eb.svg"] {
 .submenu-2-ysNh.menu-3sdvDG { border-radius: 21px; }
 .item-1tOPte.labelContainer-1BLJti.colorDefault-2K3EoJ.focused-3afm-j { left: -1.5px; }
 
-.base-1pYU8j {
-    transition: all 0.5s;
-}
-.base-1pYU8j:hover {
-    transition: all 0s;
-    transform: scale(1.02);
-}
-
-
 :root{
- 
-  --ColChat: white;
-  --text-link: var(--ColLink);
 
   --rs-small-spacing: 2px;
   --rs-large-spacing: 2px;
@@ -1518,4 +1508,8 @@ img[src="/assets/13c8662cff8e029799a35878b56e23eb.svg"] {
   --rs-streaming-color: #643da7;
   --rs-invisible-color: #747f8d;
 
+  --columns: 2;
+  --guildsize: 50;
+  --guildgap: 2;
+  --aligndms: 0;
 }
