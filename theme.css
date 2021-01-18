@@ -853,7 +853,7 @@ amazing LuckFire#4800! */
 /* color unread channels bright green, and add arrows after them */
 [class*='modeUnread'] [class*='name']
 {
-    color: #C2C203 !important;
+    color: #00D6D6 !important;
     padding-left: 3px
 }
 
