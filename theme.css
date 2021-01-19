@@ -2,7 +2,7 @@
 @import url("https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Fonts/DiscordFont.css");
 @import url('https://poilerwags.github.io/Customa-Discord/Chat/radialstatus.m.css');
 
-/* BLURPLE BLUE */
+/* BLURPLE CYAN */
 
 :root {
     --alt-color: 0, 214, 214; /* Must be an rgb color for opacity to work */
@@ -371,7 +371,7 @@ span[class*="botTagRegular"] {
 
 /* ----------------------------------------------------------- */ 
 
-/* CYBERCORD BLUE */
+/* CYBERCORD CYAN */
 
 :root {
   /* self explanatory (hopefully) */
