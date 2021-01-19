@@ -25,5 +25,5 @@ MIT, see LICENSE.md for more details
 
 ## previews
 
-![preview](./previews/previewblue1.png)
-![preview](./previews/previewblue2.png)
+![preview](./previews/previewcyan1.png)
+![preview](./previews/previewcyan2.png)
