@@ -6,10 +6,20 @@
 
 /* BLURPLE CYAN */
 
+/* AREA YOU WANT TO EDIT */ 
+/* AREA YOU WANT TO EDIT */ 
+/* AREA YOU WANT TO EDIT */ 
+/* AREA YOU WANT TO EDIT */ 
+
 :root {
     --alt-color: 0, 214, 214; /* Must be an rgb color for opacity to work */
     --radio-group-dot-foreground: rgba(var(--alt-color));
 }
+
+/* AREA YOU WANT TO EDIT */ 
+/* AREA YOU WANT TO EDIT */ 
+/* AREA YOU WANT TO EDIT */ 
+/* AREA YOU WANT TO EDIT */ 
 
 .theme-light {
     --logo-primary: rgba(var(--alt-color));
@@ -370,7 +380,7 @@ span[class*="botTagRegular"] {
     color: rgba(var(--alt-color)) !important;
 }
 
-.powercord-spotify{background-color:#0C0E13!important;padding-bottom:10px!important;border-top: 0px solid #0C0E13!important;border-bottom: 0px solid #0C0E13!important;}
+.powercord-spotify{background-color:#15181E!important;padding-bottom:10px!important;border-top: 0px solid #15181E!important;border-bottom: 0px solid #15181E!important;}
 .powercord-spotify img{border-radius:0!important}
 .powercord-spotify .spotify-seek-bar{height:4px!important;border-radius:2px!important;margin-left:15px!important;margin-right:15px!important;background:#404040!important}
 .powercord-spotify .spotify-seek-bar-progress{background:#00D2D2!important;border-radius:42px!important}
@@ -389,27 +399,32 @@ span[class*="botTagRegular"] {
 /* madeleine#0173's Code */ /* https://github.com/spinfish/midnightcord/ */
 /* CYBERCORD CYAN */
 
+/* AREA YOU WANT TO EDIT */ 
+/* AREA YOU WANT TO EDIT */ 
+/* AREA YOU WANT TO EDIT */ 
+/* AREA YOU WANT TO EDIT */ 
+
 :root {
   /* self explanatory (hopefully) */
-  --background-accent: #14171f;
+  --background-accent: #15181E;
 
   /* colour of links (including in embeds) */
   --text-link: #00D6D6;
 
   /* colour of right hand side of screen and chat */
-  --background-primary: #181c25 !important;
+  --background-primary: #15181E !important;
 
   /* embed backround/text channel list/member list colour */
-  --background-secondary: #14171f !important;
+  --background-secondary:#15181E !important;
 
   /* colour of change status/mute mic/deafen/user settings patch */
-  --background-secondary-alt: #0c0e13 !important;
+  --background-secondary-alt: #15181E !important;
 
   /* colour of panel when you click on server name/edit message */
   --background-floating: #0c0e13 !important;
 
   /* colour of border around [top of] discord */
-  --background-tertiary: #0c0e13 !important;
+  --background-tertiary: #15181E !important;
 
   /* colour of text box that you type in */
   --channeltextarea-background: var(--background-accent) !important;
@@ -423,7 +438,7 @@ span[class*="botTagRegular"] {
   --channels-default: #00D6D6 !important;
 
   /* colour of message when hovering over it */
-  --message-hover: #15181e !important;
+  --message-hover: #181a1f !important;
 
   /* colour of search bar */
   --search-menu-colour: #0c0e13 !important;
@@ -467,6 +482,10 @@ span[class*="botTagRegular"] {
        when accessed via member list */
   --header-secondary: #c9c9c9 !important;
 
+/* AREA YOU WANT TO EDIT */ 
+/* AREA YOU WANT TO EDIT */ 
+/* AREA YOU WANT TO EDIT */ 
+/* AREA YOU WANT TO EDIT */ 
 
   /* i dont know what any of the following does but i suppose
   its important yo */
@@ -854,10 +873,15 @@ amazing LuckFire#4800! */
     box-shadow: none !important;
   }
 
-/* color current channel bright pink, and add arrow in front of it */
+  /* AREA YOU WANT TO EDIT */ 
+  /* AREA YOU WANT TO EDIT */ 
+  /* AREA YOU WANT TO EDIT */ 
+  /* AREA YOU WANT TO EDIT */ 
+
+/* color current channel yellow, and add arrow in front of it */
 [class*='modeSelected'] [class*='name']
 {
-    color: rgba(1, 207, 207, .9) !important;
+    color: rgba(241, 241, 0, 0.9) !important;
     padding-left: 5px
 }
 
@@ -866,10 +890,10 @@ amazing LuckFire#4800! */
     content: "-> ";
 }
 
-/* color unread channels bright green, and add arrows after them */
+/* color unread channels brighter cyan, and add arrows after them */
 [class*='modeUnread'] [class*='name']
 {
-    color: #00D6D6 !important;
+    color: #9bffff !important;
     padding-left: 3px
 }
 
@@ -877,6 +901,11 @@ amazing LuckFire#4800! */
 {
     content: " <-";
 }
+
+/* AREA YOU WANT TO EDIT */ 
+/* AREA YOU WANT TO EDIT */ 
+/* AREA YOU WANT TO EDIT */ 
+/* AREA YOU WANT TO EDIT */ 
 
 .powercord-spotify .avatarWrapper-2yR4wp {
   
